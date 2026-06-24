@@ -1,0 +1,2 @@
+# loginadminpass
+shop
